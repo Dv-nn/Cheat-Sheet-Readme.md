@@ -11,6 +11,7 @@ _____
 `### Заголовок третьего уровня`   
 _____  
 # EMOJI  
+https://github.com/Dv-nn/USE-Readme.md/blob/main/emoji.md
 - People emoji  
 - Nature emoji  
 - Objects emoji  
