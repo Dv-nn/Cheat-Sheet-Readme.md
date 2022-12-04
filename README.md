@@ -36,9 +36,15 @@ _____
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">    
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">    
 </picture>
-```  
+``` 
+или
+
+```
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)  
+```
 _____
-# EMOJI  
+# EMOJI 
+Добавить эмоджи `:EMOJICODE:`  
 [Файл с Emoji](https://github.com/Dv-nn/USE-Readme.md/blob/main/emoji.md)
 - People emoji  
 - Nature emoji  
@@ -49,6 +55,25 @@ _____
 # КОММЕНТАРИЙ
 `<!-- COMMENT -->`
 _____
+# Список  
+Ненумерованный:  
+- Иванов  
+* Петров  
++ Сидоров  
+```
+- Иванов  
+* Петров  
++ Сидоров  
+```
+Нумерованный:    
+```
+1.Иванов  
+2.Петров  
+3.Сидоров  
+```
+_____
+#
+
 
 
 
