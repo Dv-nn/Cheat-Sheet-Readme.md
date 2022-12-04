@@ -26,15 +26,17 @@ _____
 # Цитата  
 
 Цитата:
-> Это цитата
+> Это цитата `> Это цитата`
 
 _____
 # ИЗОБРАЖЕНИЕ    
-```<picture>
+```
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">    
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">    
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">    
-</picture>```  
+</picture>
+```  
 _____
 # EMOJI  
 [Файл с Emoji](https://github.com/Dv-nn/USE-Readme.md/blob/main/emoji.md)
@@ -44,8 +46,6 @@ _____
 - Places emoji  
 - Symbols emoji  
 _____  
-# ВИДЕО
-_____
 # КОММЕНТАРИЙ
 `<!-- COMMENT -->`
 _____
